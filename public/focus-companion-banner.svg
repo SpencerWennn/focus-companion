@@ -1,0 +1,15 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="640" fill="#020617"/>
+  <circle cx="220" cy="320" r="110" fill="#0F172A"/>
+  <text x="220" y="300" text-anchor="middle" fill="#7DD3FC" font-size="56" font-family="system-ui, -apple-system, BlinkMacSystemFont" font-weight="700">FOCUS</text>
+  <text x="220" y="340" text-anchor="middle" fill="#38BDF8" font-size="32" font-family="system-ui, -apple-system, BlinkMacSystemFont">COMPANION</text>
+  <rect x="420" y="160" width="740" height="320" rx="32" fill="#020617" stroke="#1E293B" stroke-width="2"/>
+  <text x="450" y="220" fill="#CBD5F5" font-size="28" font-family="system-ui, -apple-system, BlinkMacSystemFont">Virtual co-working with</text>
+  <text x="450" y="260" fill="#38BDF8" font-size="28" font-family="system-ui, -apple-system, BlinkMacSystemFont">an AI companion</text>
+  <rect x="450" y="300" width="180" height="110" rx="20" fill="#0F172A" stroke="#1E293B"/>
+  <rect x="460" y="310" width="72" height="72" rx="16" fill="#020617" stroke="#1E293B"/>
+  <text x="496" y="355" text-anchor="middle" fill="#E5E7EB" font-size="28">🧑‍💻</text>
+  <rect x="540" y="310" width="72" height="72" rx="16" fill="#020617" stroke="#1E293B"/>
+  <text x="576" y="355" text-anchor="middle" fill="#E5E7EB" font-size="28">🤖</text>
+  <text x="460" y="400" fill="#9CA3AF" font-size="14" font-family="system-ui, -apple-system, BlinkMacSystemFont">You &amp; Nova in a focus room</text>
+</svg>
